@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+/* CSS reset  */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+/* Colors  */
+
+:root {
+  --primary: #1f2937;
+  --secondary: #4f46e5;
+  --accent: #eef2ff;
+  --highlight: #22c55e;
+  --danger-red: #ef4444;
+  --background: #f9fafb;
+  --jet-black: #080b11;
+  --font-poppins: "Poppins", sans-serif;
+}
